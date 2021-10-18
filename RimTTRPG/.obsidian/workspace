@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Rules/Combat.md",
+            "file": "Rules/Character Creation.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rules/Combat.md",
+                "file": "Rules/Character Creation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rules/Combat.md",
+                "file": "Rules/Character Creation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -100,11 +100,11 @@
   },
   "active": "dfc404e361311ced",
   "lastOpenFiles": [
+    "Rules/Character Creation.md",
     "Rules/Combat.md",
     "World/Items/Medical Supplies.md",
     "Rules/Skills.md",
     "Untitled.md",
-    "Rules/Character Creation.md",
     "Rules/Backstories.md",
     "World/Tech Levels.md",
     "World/Items/Armor.md",
