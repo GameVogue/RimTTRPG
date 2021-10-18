@@ -10,4 +10,4 @@ A projectile-repulsion device. It will attempt to stop incoming projectiles or s
 A defensive smokescreen. When activated, it will release a cloud of smoke in a 30 foot radius, obscuring incoming shots and preventing autoturrets from locking on. Applies 3/4 cover to all characters obscured by the smokescreen. Stores three uses before needing to be reloaded with chemfuel.
 
 **Jump Pack**
-A single-person burst rocket for short-ranged flight. With its integrated harness and guidance assistant, the jump pack allows anyone to leap long distances at high speed, even over obstacles. The fuel tank allows for five jumps before needing to be refueled with chemfuel.
+A single-person burst rocket for short-ranged flight. With its integrated harness and guidance assistant, the jump pack allows anyone to leap 20 feet forward at high speed, even over low obstacles. The fuel tank allows for five jumps before needing to be refueled with chemfuel.
