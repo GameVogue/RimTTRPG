@@ -1,0 +1,114 @@
+{
+  "main": {
+    "id": "96cbb304c737cd6b",
+    "type": "split",
+    "children": [
+      {
+        "id": "dfc404e361311ced",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Rules/Combat.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4c4eae4a5dc6d2c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "03c6265508d0ae32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28db439f3b4ec780",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "976e4265339000d1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dfe9e60d3aeb8384",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb13339376aa948c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe507a4fb7306383",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Rules/Combat.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0879551e1f54288e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Rules/Combat.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "dfc404e361311ced",
+  "lastOpenFiles": [
+    "Rules/Combat.md",
+    "World/Items/Medical Supplies.md",
+    "Rules/Skills.md",
+    "Untitled.md",
+    "Rules/Character Creation.md",
+    "Rules/Backstories.md",
+    "World/Tech Levels.md",
+    "World/Items/Armor.md",
+    "World/Items/Weapons.md",
+    "World/Items/Drugs.md"
+  ]
+}
