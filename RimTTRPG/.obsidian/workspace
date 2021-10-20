@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Scenarios/Persona AI Ship.md",
+            "file": "Scenarios/Journalist's Ship.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scenarios/Persona AI Ship.md",
+                "file": "Scenarios/Journalist's Ship.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scenarios/Persona AI Ship.md",
+                "file": "Scenarios/Journalist's Ship.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -100,15 +100,15 @@
   },
   "active": "dfc404e361311ced",
   "lastOpenFiles": [
+    "Scenarios/Persona AI Ship.md",
+    "character sheet.png",
+    "World/Items/Medical Supplies.md",
+    "World/Tech Levels.md",
     "Untitled.md",
     "Rules/Combat.md",
     "Rules/Backstories.md",
-    "World/Items/Medical Supplies.md",
     "World/Factions/Tribes.md",
     "World/Factions/The Mechanoid Hive.md",
-    "World/Factions/The Empire.md",
-    "World/Factions/The Ancients.md",
-    "World/Factions/Pirates.md",
-    "World/Factions/Outlanders.md"
+    "World/Factions/The Empire.md"
   ]
 }
