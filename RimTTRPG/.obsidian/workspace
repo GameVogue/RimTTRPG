@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "World/Factions/The Empire.md",
+            "file": "Rules/Character Sheet.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World/Factions/The Empire.md",
+                "file": "Rules/Character Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World/Factions/The Empire.md",
+                "file": "Rules/Character Sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -100,14 +100,14 @@
   },
   "active": "dfc404e361311ced",
   "lastOpenFiles": [
-    "World/Factions/The Empire.md",
-    "Rules/Skills.md",
     "Rules/Character Sheet.md",
+    "World/Factions/The Empire.md",
+    "World/Tech Levels.md",
+    "Rules/Skills.md",
     "Rules/Character Creation.md",
     "World/Items/Utility Items.md",
     "Untitled.md",
     "World/Items/Weapons.md",
-    "World/Tech Levels.md",
     "Rules/Backstories.md",
     "Rules/Combat.md"
   ]
