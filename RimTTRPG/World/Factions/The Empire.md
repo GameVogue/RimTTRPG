@@ -1,5 +1,7 @@
 The Empire
 ---
+#factions #lore
+
 The Empire is an ultratech level faction with a monarchist power structure. Their culture is based on a code of honor, a strict class system, and enforced social stasis. Imperial traders will only trade with other citizens of the Empire.
 
 The Empire are the remnants of an ultratech interstellar empire that have fled from a great calamity. They are organized in a feudal hierarchy nominally headed by a far-off Emperor, however, due to the lack of faster-than-light travel, much of true day to day power is held by the Stellarchs who have dominion over their entire star system, and Consuls who have dominion over each planet. The noble households are served by the common folk in a variety of roles from domestic to military, despite the automation technology available to the Empire before its fall. Grand, ancient starships acted as powerbases for noble families along side more traditional planetary holdings. Nobles and commoners alike would be born and raised on these ships.

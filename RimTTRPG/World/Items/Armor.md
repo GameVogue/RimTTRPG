@@ -1,5 +1,7 @@
 Armor
 ---
+#items
+
 Prices are for average quality construction, standard materials.
 
 

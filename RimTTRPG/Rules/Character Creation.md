@@ -1,6 +1,8 @@
 Character Creation
 ---
 
+[[Character Sheet]]
+
 During character creation, all choices may be altered until the character is finalized, when play can begin. The following order is merely a suggestion.
 
 1. Choose a backstory from the [[Backstories ]] section. This will influence the rest of the character creation process. Alternatively, create your own backstory and ask your GM to assign skill bonuses from it.

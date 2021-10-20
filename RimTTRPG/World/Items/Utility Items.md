@@ -1,5 +1,6 @@
 Utility Items
 ---
+#items
 
 A variety of specialized items characters may carry on their person.
 
