@@ -8,5 +8,5 @@ During character creation, all choices may be altered until the character is fin
 3. Choose up to two traits from the [[Traits]] section.
 4. All [[Skills]] start at 5 unless added to, subtracted from, or zeroed by a Backstory or Trait. Apply these skill points.
 5. Roll 2d6 skill points or take 7 skill points and distribute them among your skills. No skill can surpass 20.
-6. Spend 1d6x100 Silver on starting gear, at a tech level determined by your GM.
-7. Play!
+6. Roll 3d6 and multiply the highest die roll by 10 to get your hitpoints.
+7. Spend 1d6x100 Silver on starting gear, at a tech level determined by your GM, and keep the remaining silver.

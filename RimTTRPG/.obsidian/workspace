@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "World/Items/Utility Items.md",
+            "file": "Rules/Character Sheet.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World/Items/Utility Items.md",
+                "file": "Rules/Character Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World/Items/Utility Items.md",
+                "file": "Rules/Character Sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -100,15 +100,15 @@
   },
   "active": "dfc404e361311ced",
   "lastOpenFiles": [
+    "Rules/Character Sheet.md",
+    "Rules/Character Creation.md",
     "World/Items/Utility Items.md",
     "Untitled.md",
     "World/Items/Weapons.md",
     "World/Tech Levels.md",
-    "Rules/Character Creation.md",
     "Rules/Backstories.md",
     "Rules/Combat.md",
     "World/Items/Medical Supplies.md",
-    "Rules/Skills.md",
-    "World/Items/Armor.md"
+    "Rules/Skills.md"
   ]
 }
