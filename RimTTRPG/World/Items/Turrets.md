@@ -2,7 +2,7 @@ Turrets
 ---
 #items 
 
-Turrets are defensive emplacements which can be constructed, disassembled, or packed up and relocated. Different turrets require different levels of Construction skill to construct or disassemble. Mortars are capable of firing over low structures such as barricades and walls, and may strike roofs. Turrets operate like stationary ranged weapons.
+Turrets are defensive emplacements which can be constructed, disassembled, or packed up and relocated. Different turrets require different levels of Construction skill to construct or disassemble. Mortars are capable of firing over low structures such as barricades and walls, and may strike roofs. Turrets operate like stationary ranged weapons, scaling off of Shooting skill.
 
 ##### Portable
 Portable turrets require one action to pack up, and one action to place.
@@ -23,7 +23,7 @@ Emplaced turrets cannot be moved during combat, and require a strong foundation 
 
 
 ##### Mortar Shells
-Mortars require shells to fire.
+Mortars require shells to fire. Smoke shells have the same effect on target as a [[Utility Items#^c23cfc|Smokepop Pack]].
 
 | Name | Damage | Type | Radius | Value |
 |---|---|---|---|---|

@@ -24,7 +24,7 @@ Some skills may seem more or less useful than others, depending on the type of c
 The _animals_ skill determines how well a character handles wild and domesticated animals, and increases the chance to go undetected while _hunting_ wild animals.
 
 **Artistic**
-The _artistic_ skill is the proficiency to create beautiful works of art, and appraise the value of art. It also allows the character to add artistic embellishments to structures and items created by others, increasing their value or perceived status.
+The _artistic_ skill is the proficiency to create beautiful works of art, and appraise the value of art. It also allows the character to add artistic embellishments to structures and items created by others, increasing their value or perceived status. Additionally, artists may be adept at duplicating physical items like signatures, maps, signet rings, badges, and other small and dexterous creation tasks not covered by Construction or Crafting.
 
 **Construction**
 The _construction_ skill governs a wide variety of building and engineering tasks, centered around creating structures, as well as deconstructing structures back into useful resources. Structures includes not only walls, roofs, and furniture but also plumbing, electrical grids, defensive emplacements and barriers, and even starships and nuclear power generators, assuming there are blueprints and materials available.
