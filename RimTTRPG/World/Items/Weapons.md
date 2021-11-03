@@ -23,7 +23,7 @@ Ranged weapons require [[Ammunition]].
 |---|---|---|---|---|---|
 | Machine Pistol | 15 | 1-20 | Sharp | 9mm | 220 |
 | Assault Rifle | 30 | 2-30 | Sharp | 5.56 | 480 |
-| Revolver | 12 | 1-25 | Sharp | 135 |
+| Revolver | 12 | 1-25 | Sharp | .32 | 135 |
 | Short Bow | 15 | 2-20 | Sharp | Arrow | 45 |
-| Charge Rifle | 45 | 2-25 | Sharp | 5.56c | 1000 |
+| Charge Rifle | 45 | 2-25 | Sharp + EMP | 6x24mm PC | 1000 |
 | Bolt-action Rifle | 18 | 2-35 | Sharp | .308 | 255 |

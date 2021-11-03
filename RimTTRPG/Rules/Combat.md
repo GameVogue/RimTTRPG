@@ -32,7 +32,11 @@ Range linearly affects CTH. Targets inside the range of the weapon has no effect
 Melee attacks are also affected by the target's melee skill modifier, which is added to the CTH.
 
 ##### Damage
-Each weapon has a damage value and damage type that is directly applied when a hit is successful. Armor is rolled by the entity who was hit and the armor total is subtracted from the damage. The primary damage types are sharp and blunt. All sharp damage that is negated by armor is then halved and applied as blunt damage. All blunt damage that is negated by armor is reduced to zero. Other types of damage, such as Fire and Energy damage, are applied automatically on a hit if the armor does not list a resistance to it.
+Each weapon has a damage value and damage type that is directly applied when a hit is successful. Armor is rolled by the entity who was hit and the armor total is subtracted from the damage. The primary damage types are sharp and blunt. All sharp damage that is negated by armor is then halved and applied as blunt damage. All blunt damage that is negated by armor is reduced to zero. Other types of damage, such as Burn and EMP damage, are applied automatically on a hit if the armor does not list a resistance to it.
+
+**Damage Types**
+- Burn: Full damage to organics, half damage to synthetics.
+- EMP: Full damage to synthetics, half damage to organics.
 
 **Bloodied**
 Once a character or creature has been reduced to below half their hitpoints, they suffer a temporary -5 penalty to all skill modifiers, including melee and shooting. Their movement speed is also reduced by half. This state is referred to as "bloodied". Once bloodied, you are bleeding, and will continue to lose one hitpoint per round of combat. Hitpoints can be replenished through medical care and rest, or the negative effects can be temporarily ignored via certain drugs and abilities.
