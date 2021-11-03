@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Rules/Skills.md",
+            "file": "World/Items/Turrets.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rules/Skills.md",
+                "file": "World/Items/Turrets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rules/Skills.md",
+                "file": "World/Items/Turrets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -100,15 +100,15 @@
   },
   "active": "dfc404e361311ced",
   "lastOpenFiles": [
-    "Rules/Skills.md",
-    "World/Items/Armor.md",
-    "Rules/Combat.md",
+    "World/Items/Turrets.md",
     "World/Items/Weapons.md",
+    "World/Items/Armor.md",
+    "World/Tech Levels.md",
+    "World/Factions/The Ancients.md",
+    "Rules/Skills.md",
+    "Rules/Combat.md",
     "Scenarios/Journalist's Ship.md",
     "Scenarios/Persona AI Ship.md",
-    "character sheet.png",
-    "World/Items/Medical Supplies.md",
-    "World/Tech Levels.md",
-    "Untitled.md"
+    "character sheet.png"
   ]
 }
