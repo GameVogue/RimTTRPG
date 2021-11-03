@@ -17,11 +17,13 @@ Weapons
 
 
 ##### Ranged
-| Name | Damage | Range | Type | Value |
-|---|---|---|---|---|
-| Machine Pistol | 15 | 1-20 | Sharp | 220 |
-| Assault Rifle | 30 | 2-30 | Sharp | 480 |
+Ranged weapons require [[Ammunition]].
+
+| Name | Damage | Range | Type | Ammo | Value |
+|---|---|---|---|---|---|
+| Machine Pistol | 15 | 1-20 | Sharp | 9mm | 220 |
+| Assault Rifle | 30 | 2-30 | Sharp | 5.56 | 480 |
 | Revolver | 12 | 1-25 | Sharp | 135 |
-| Short Bow | 15 | 2-20 | Sharp | 45 |
-| Charge Rifle | 45 | 2-25 | Sharp | 1000 |
-| Bolt-action Rifle | 18 | 2-35 | Sharp | 255 |
+| Short Bow | 15 | 2-20 | Sharp | Arrow | 45 |
+| Charge Rifle | 45 | 2-25 | Sharp | 5.56c | 1000 |
+| Bolt-action Rifle | 18 | 2-35 | Sharp | .308 | 255 |

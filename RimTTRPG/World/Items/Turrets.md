@@ -23,6 +23,9 @@ Emplaced turrets cannot be moved during combat, and require a strong foundation 
 
 
 ##### Mortar Shells
+
+^ec5b85
+
 Mortars require shells to fire. Smoke shells have the same effect on target as a [[Utility Items#^c23cfc|Smokepop Pack]].
 
 | Name | Damage | Type | Radius | Value |

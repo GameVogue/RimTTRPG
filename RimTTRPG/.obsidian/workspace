@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "World/Items/Ammunition.md",
+            "file": "World/Items/Weapons.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World/Items/Ammunition.md",
+                "file": "World/Items/Weapons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World/Items/Ammunition.md",
+                "file": "World/Items/Weapons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -100,15 +100,15 @@
   },
   "active": "0771e95cb3b38a2b",
   "lastOpenFiles": [
-    "World/Items/Ammunition.md",
     "World/Items/Weapons.md",
+    "Rules/Combat.md",
+    "World/Items/Ammunition.md",
     "World/Items/Turrets.md",
     "Rules/Skills.md",
     "Rules/Character Creation.md",
     "World/Items/Utility Items.md",
     "World/Items/Armor.md",
     "World/Items/Drugs.md",
-    "World/Items/Medical Supplies.md",
-    "Rules/Combat.md"
+    "World/Items/Medical Supplies.md"
   ]
 }
