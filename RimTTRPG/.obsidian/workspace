@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "World/Items/Weapons.md",
+            "file": "World/Items/Turrets.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World/Items/Weapons.md",
+                "file": "World/Items/Turrets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World/Items/Weapons.md",
+                "file": "World/Items/Turrets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -100,11 +100,11 @@
   },
   "active": "0771e95cb3b38a2b",
   "lastOpenFiles": [
+    "World/Items/Turrets.md",
     "World/Items/Weapons.md",
     "World/Items/Armor.md",
     "World/Items/Utility Items.md",
     "Rules/Character Creation.md",
-    "World/Items/Turrets.md",
     "World/Items/Drugs.md",
     "World/Items/Medical Supplies.md",
     "Rules/Combat.md",
