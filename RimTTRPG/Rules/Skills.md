@@ -42,7 +42,7 @@ The _Medical_ skill level is the main factor for medical treatment quality and s
 The _melee_ skill increases a character's chance to hit a target with a melee weapon, and also increases their chance to dodge an incoming melee attack. When rolling to hit a melee attack, add your melee skill modifier to the roll. When being attacked by a melee attack, add your melee skill modifier to your CTH threshold.
 
 **Mining**
-The _mining_ skill allows characters to dig tunnels, trenches, pits, into the sides of mountains, and breach through walls, given they have the appropriate tool. This can allow characters to create safe places or access certain areas in an unconventional way. Characters can also use this skill to mine valuable minerals or other resources necessary for crafting, if they are present.
+The _mining_ skill allows characters to dig tunnels, trenches, pits, into the sides of mountains, and breach through walls, given they have the appropriate tool. This can allow characters to create safe places or access certain areas in an unconventional way. Characters can also use this skill to mine valuable minerals or other resources necessary for crafting, if they are present. Higher skill in mining increases the speed as well as decreasing the likelihood of cave-ins.
 
 **Intellectual**
 This _intellectual_ skill determines generalized knowledge and memory, ability to solve puzzles and complete research, and interface with computers and other complex electronics, as well as better understand the motivations and underlying programming of artificial intelligence.
