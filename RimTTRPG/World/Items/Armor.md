@@ -15,6 +15,12 @@ Prices are for average quality construction, standard materials.
 ##### Clothing
 | Name | Sharp | Blunt | Value |
 |---|---|---|---|
-| Parka | 0 | 1d4 | 150 |
-| Duster | 1d4 | 0 | 150 |
+| Parka | 0 | 1d6 | 150 |
+| Duster | 1d6 | 0 | 150 |
 | Eltex Robe | 0 | 0 | 600 |
+
+
+##### Armor
+| Name | Sharp | Blunt | Value |
+|---|---|---|---|
+| Flak Jacket | 2d6 | 1d6 | 360 |

@@ -7,8 +7,11 @@
         "id": "0771e95cb3b38a2b",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "World/Items/Armor.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "World/Items/Armor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,6 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "World/Items/Armor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -95,15 +100,15 @@
   },
   "active": "0771e95cb3b38a2b",
   "lastOpenFiles": [
-    "World/Items/Turrets.md",
+    "World/Items/Armor.md",
     "World/Items/Utility Items.md",
+    "Rules/Character Creation.md",
     "World/Items/Weapons.md",
+    "World/Items/Turrets.md",
+    "World/Items/Drugs.md",
+    "World/Items/Medical Supplies.md",
     "Rules/Combat.md",
     "Rules/Backstories.md",
-    "Rules/Character Sheet.md",
-    "Rules/Character Creation.md",
-    "Rules/Skills.md",
-    "Rules/Traits.md",
-    "World/Items/Armor.md"
+    "Rules/Character Sheet.md"
   ]
 }
