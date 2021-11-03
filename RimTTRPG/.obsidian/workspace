@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "World/Items/Armor.md",
+            "file": "Rules/Skills.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World/Items/Armor.md",
+                "file": "Rules/Skills.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World/Items/Armor.md",
+                "file": "Rules/Skills.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -100,6 +100,7 @@
   },
   "active": "dfc404e361311ced",
   "lastOpenFiles": [
+    "Rules/Skills.md",
     "World/Items/Armor.md",
     "Rules/Combat.md",
     "World/Items/Weapons.md",
@@ -108,7 +109,6 @@
     "character sheet.png",
     "World/Items/Medical Supplies.md",
     "World/Tech Levels.md",
-    "Untitled.md",
-    "Rules/Backstories.md"
+    "Untitled.md"
   ]
 }
