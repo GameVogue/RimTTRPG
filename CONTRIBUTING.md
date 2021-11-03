@@ -7,3 +7,5 @@ RimTTRPG is written in MarkDown and uses MediaWiki style [wikilinks](https://www
 If you do not feel comfortable using git, you can still suggest a change either by submitting a factual correction 
 (such as a self-contradiction in the rules or incorrect math) to [Issues](https://github.com/GameVogue/RimTTRPG/issues) or by making a more general suggestion
 (such as thoughts on reworking a mechanic) in [Discussions](https://github.com/GameVogue/RimTTRPG/discussions/).
+
+Another very valuable way to contribute is by playtesting the game with friends and telling us about it over in [Discussions](https://github.com/GameVogue/RimTTRPG/discussions/).
