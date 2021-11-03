@@ -7,11 +7,8 @@
         "id": "0771e95cb3b38a2b",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Rules/Combat.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rules/Combat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +81,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rules/Combat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -100,15 +95,15 @@
   },
   "active": "0771e95cb3b38a2b",
   "lastOpenFiles": [
+    "World/Items/Turrets.md",
+    "World/Items/Utility Items.md",
+    "World/Items/Weapons.md",
     "Rules/Combat.md",
+    "Rules/Backstories.md",
+    "Rules/Character Sheet.md",
+    "Rules/Character Creation.md",
     "Rules/Skills.md",
     "Rules/Traits.md",
-    "World/Items/Turrets.md",
-    "World/Items/Weapons.md",
-    "World/Items/Armor.md",
-    "World/Tech Levels.md",
-    "World/Factions/The Ancients.md",
-    "Scenarios/Journalist's Ship.md",
-    "Scenarios/Persona AI Ship.md"
+    "World/Items/Armor.md"
   ]
 }
