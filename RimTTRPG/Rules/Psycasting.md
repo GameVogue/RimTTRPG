@@ -37,14 +37,14 @@ The following table is for quick reference. See the full description of each psy
 | 4 | Skip | Teleports target | 28 | Instant | Target | 25 | 1% |
 | 4 | Focus | Boosts senses | 28 | 50s | Target | 15 | 5% |
 | 4 | Wallraise | Creates wall | 25 | Instant | 3 | 35 | 1% |
-| 5 | Berserk | Induces berserk | 20 | 15s | Target | 40 | 5% |
-| 5 | Flashstorm | Creates storm | 20 | 120s | 14 | 65 | 5% |
-| 5 | Invisibility | Hides target | 20 | 15s | Target | 45 | 5% |
+| 5 | Berserk | Induces berserk | 20 | 10s | Target | 40 | 5% |
+| 5 | Flashstorm | Creates storm | 20 | 100s | 14 | 65 | 5% |
+| 5 | Invisibility | Hides target | 20 | 20s | Target | 45 | 5% |
 | 5 | Far Skip | Long Range Teleport | Planetary | Instant | 5 | 0 | 75% |
 | 6 | Berserk Pulse | Mass berserk | 15 | 10s | 5 | 65 | 5% |
 | 6 | Mass Chaos Skip | Random area teleport | 25 | Instant | 17 | 40 | 5% |
-| 6 | Skipshield | Shields from projectiles | 25 | 15s | 9 | 65 | 5% |
-| 6 | Manhunter Pulse | Animal berserk | 35 | 60s | 60 | 50 | 5% |
+| 6 | Skipshield | Shields from projectiles | 25 | 20s | 9 | 65 | 5% |
+| 6 | Manhunter Pulse | Animal berserk | 35 | 50s | 60 | 50 | 5% |
 | 6 | Neuroquake | Mass psychosis | User | Instant | 60 | 0 | 100% |
 
 ##### Psycasts
@@ -55,5 +55,16 @@ One organic target up to 30 tiles away has their speed reduced by half for 20 se
 
 **Painblock**
 *Block pain pathways in the target's brain for a short time. This can allow a person to move and act even with grievous injuries which would normally incapacitate them.*
-Negates the effects of the Bloodied state on one organic target up to 25 tiles away for 120 seconds.
+Negates the effects of the Bloodied state on one organic target up to 25 tiles away for 100 seconds.
 
+**Stun**
+*Momentarily disrupt motor function in the target's brain, preventing any movement.*
+Prevents one organic target up to 20 tiles away from taking any actions for 5 seconds.
+
+**Chunk Skip**
+*Skip 5 chunks of rock or slag and scatter them near the target point. This is useful for producing cover during offensive operations.*
+Teleport up to five inanimate objects within a 25 tile radius towards a point you choose within the radius. These objects will not intersect with any other objects or entities, and must land in a configuration of 5 adjacent tiles.
+
+**Solar Pinhole**
+*Generate a microscopic skipgate linked to the core of a nearby star. Solar material leaks through the pinprick in spacetime, illuminating and warming the surrounding area with daylight until it closes.*
+Creates daylight and heat in a 12 tile radius for 5 days. Can be cast up to 25 tiles away. The microscopic skipgate is too small t
