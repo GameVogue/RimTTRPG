@@ -35,6 +35,8 @@ Repeating use of Psycasts in a short period of time builds Neural Heat, which al
 
 The Empire has developed a material known as Eltex which supposedly enhances psychic sensitivity and helps to dissipate neural heat. Eltex is a lightweight, complex composite that can be integrated into garments, armor, and especially into Eltex Staffs which are both a religious symbol and a focus for psycasting.
 
+See [[Psycasting]] for more information.
+
 
 ##### The Great Calamity
 Little is known about the Great Calamity which fractured the Empire, much historical evidence points to a great emergence of the Mechanoid Hive during this same period, leading to the belief that another Archotect created or awakened the Hive as a defense against the ever expanding Empire and their Psycasting abilities. However, other sources point to evidence of the Mechanoid Hive existing long before the Empire emerged, possibly during the time of the Ancients.
