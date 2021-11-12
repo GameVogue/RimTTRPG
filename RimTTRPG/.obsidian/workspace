@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "World/Items/Ammunition.md",
+            "file": "Rules/Character Creation.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World/Items/Ammunition.md",
+                "file": "Rules/Character Creation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World/Items/Ammunition.md",
+                "file": "Rules/Character Creation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -100,12 +100,12 @@
   },
   "active": "0771e95cb3b38a2b",
   "lastOpenFiles": [
+    "Rules/Character Creation.md",
     "World/Items/Ammunition.md",
     "World/Items/Weapons.md",
     "World/Tech Levels.md",
     "character sheet.png",
     "Rules/Character Sheet.md",
-    "Rules/Character Creation.md",
     "Rules/Combat.md",
     "World/Items/Turrets.md",
     "World/Items/Armor.md",
