@@ -19,13 +19,24 @@ Heat naturally decreases over time, with faster rates provided by additional lev
 
 ##### Psycasts
 
+The following table is for quick reference. See the full description of each psycast for full effects.
+
 | Level | Name | Effect | Range | Duration | Area | Heat | Psyfocus |
 |---|---|---|---|---|---|---|---|
 | 1 | Burden | Slows target | 30 | 20s | Target | 8 | 1% |
 | 1 | Painblock | Suppresses pain | 25 | 120s | Target | 8 | 2% |
 | 1 | Stun | Stop target | 20 | 3s | Target | 12 | 1% |
-| 1 | Chunkskip | Throw objects | 25 | Instant | Target | 14 | 4% |
+| 1 | Chunk Skip | Throw objects | 25 | Instant | Target | 14 | 4% |
 | 1 | Solar Pinhole | Creates light | 25 | 5 days | 15 | 0 | 8% |
 | 2 | Blinding Pulse | Blinds targets | 25 | 30s | 7 | 20 | 1% |
-| 2 | Waterskip | Douses area | 25 | Instant | 3 | 25 | 2% |
-| 3 | Beckon
+| 2 | Water Skip | Douses area | 25 | Instant | 3 | 25 | 2% |
+| 3 | Beckon | Summon target | 20 | 8s | Target | 20 | 1% |
+| 3 | Chaos Skip | Random teleport | 25 | Instant | Target | 18 | 2% |
+| 3 | Vertigo Pulse | Confuses target | 25 | 20s | 7 | 30 | 2% |
+| 4 | Smokepop | Creates smoke | 25 | 30s | 7 | 30 | 2% |
+| 4 | Skip | Teleports target | 28 | Instant | Target | 25 | 2% |
+| 4 | Focus | Boosts senses | 28 | 60s | Target | 15 | 3% |
+| 4 | Wallraise | Creates wall | 25 | Instant | 3 | 35 | 2% |
+| 5 | Berserk | Induces psychosis | 20 | 15s | Target | 40 | 4% |
+| 5 | Flashstorm | Creates storm | 20 | 120s | 14 | 65 | 4% |
+| 5 | Invisibility | 
