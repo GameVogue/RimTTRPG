@@ -29,7 +29,7 @@ The following table is for quick reference. See the full description of each psy
 | 1 | Chunk Skip | Throw objects | 25 | Instant | Target | 14 | 5% |
 | 1 | Solar Pinhole | Creates light | 25 | 5 days | 15 | 0 | 10% |
 | 2 | Blinding Pulse | Blinds targets | 25 | 30s | 7 | 20 | 1% |
-| 2 | Water Skip | Douses area | 25 | Instant | 3 | 25 | 1% |
+| 2 | Water Skip | Douses area | 25 | Instant | 6 | 25 | 1% |
 | 3 | Beckon | Summon target | 20 | 10s | Target | 20 | 1% |
 | 3 | Chaos Skip | Random teleport | 25 | Instant | Target | 18 | 1% |
 | 3 | Vertigo Pulse | Confuses target | 25 | 20s | 7 | 30 | 1% |
@@ -59,7 +59,7 @@ Negates the effects of the Bloodied state on one organic target up to 25 tiles a
 
 **Stun**
 *Momentarily disrupt motor function in the target's brain, preventing any movement.*
-Prevents one organic target up to 20 tiles away from taking any actions for 5 seconds.
+Prevents one organic entity up to 20 tiles away from taking any actions for 5 seconds.
 
 **Chunk Skip**
 *Skip 5 chunks of rock or slag and scatter them near the target point. This is useful for producing cover during offensive operations.*
@@ -67,4 +67,16 @@ Teleport up to five inanimate objects within a 25 tile radius towards a point yo
 
 **Solar Pinhole**
 *Generate a microscopic skipgate linked to the core of a nearby star. Solar material leaks through the pinprick in spacetime, illuminating and warming the surrounding area with daylight until it closes.*
-Creates daylight and heat in a 12 tile radius for 5 days. Can be cast up to 25 tiles away. The microscopic skipgate is too small t
+Creates daylight and heat in a 12 tile radius for 5 days. Can be cast up to 25 tiles away. The microscopic skipgate is too small to interact with solid objects or entities.
+
+**Blinding Pulse**
+*Induce noise in the visual centers of the brain, obscuring vision of everyone near the target point.*
+Reduces vision of organic entities for 30 seconds within a 7 tile radius, which can be cast up to 25 tiles away. Blinded entities have a +3 applied to their Chance To Hit threshold when making a ranged attack.
+
+**Water Skip**
+*Douse a target in water, extinguishing fires. The water is archotechnologically skipped from distant bodies of water or underground aquifers.*
+Creates a brief downpour of water in a 6 tile radius, extinguishing fires and otherwise soaking anything in the area. Can be cast up to 25 tiles away.
+
+**Beckon**
+*Psychically command the target to approach the caster.*
+Forces one organic entity up to 20 tiles away to move towards the caster. The target is unable to take any actions on their turn except for movement. Lasts for 10 seconds or until the target is struck by an attack.
