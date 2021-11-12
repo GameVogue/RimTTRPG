@@ -19,6 +19,13 @@ Heat naturally decreases over time, with faster rates provided by additional lev
 
 ##### Psycasts
 
-| Name | Effect | Range | Heat | Psyfocus |
-|---|---|---|---|---|
-| Burden | Slows
+| Level | Name | Effect | Range | Duration | Area | Heat | Psyfocus |
+|---|---|---|---|---|---|---|---|
+| 1 | Burden | Slows target | 30 | 20s | Target | 8 | 1% |
+| 1 | Painblock | Suppresses pain | 25 | 120s | Target | 8 | 2% |
+| 1 | Stun | Stop target | 20 | 3s | Target | 12 | 1% |
+| 1 | Chunkskip | Throw objects | 25 | Instant | Target | 14 | 4% |
+| 1 | Solar Pinhole | Creates light | 25 | 5 days | 15 | 0 | 8% |
+| 2 | Blinding Pulse | Blinds targets | 25 | 30s | 7 | 20 | 1% |
+| 2 | Waterskip | Douses area | 25 | Instant | 3 | 25 | 2% |
+| 3 | Beckon
