@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Rules/Character Creation.md",
+            "file": "World/Factions/The Empire.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rules/Character Creation.md",
+                "file": "World/Factions/The Empire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rules/Character Creation.md",
+                "file": "World/Factions/The Empire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -100,15 +100,15 @@
   },
   "active": "0771e95cb3b38a2b",
   "lastOpenFiles": [
-    "Rules/Character Creation.md",
-    "World/Items/Ammunition.md",
-    "World/Items/Weapons.md",
-    "World/Tech Levels.md",
-    "character sheet.png",
+    "World/Factions/The Empire.md",
+    "World/Items/Utility Items.md",
+    "Rules/Psycasting.md",
     "Rules/Character Sheet.md",
-    "Rules/Combat.md",
-    "World/Items/Turrets.md",
-    "World/Items/Armor.md",
-    "World/Factions/The Mechanoid Hive.md"
+    "Rules/Traits.md",
+    "Rules/Skills.md",
+    "Rules/Character Creation.md",
+    "Rules/Backstories.md",
+    "World/Items/Ammunition.md",
+    "World/Items/Weapons.md"
   ]
 }
