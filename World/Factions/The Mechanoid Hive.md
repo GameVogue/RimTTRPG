@@ -1,5 +1,6 @@
 The Mechanoid Hive
 ---
+#factions #lore
 
 Killer machines of unknown origin. Hidden in ancient structures, under mounds of dust, or at the bottom of the ocean, mechanoids can self-maintain for thousands of years. They seem to be unified in purpose, but not well-coordinated in action. While some historians believe they're autonomous weapons left over from an ancient war, tribal legends describe them as the demonic servants of a sleeping god.
 

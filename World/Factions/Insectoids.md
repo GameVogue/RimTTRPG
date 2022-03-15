@@ -1,5 +1,7 @@
 Insectoids
 ---
+#factions #lore
+
 Insectoids are large insect-like creatures. They originate from the time of the Ancients, who genetically engineered them to fight off the expanding Mechanoid Hive.
 
 Insectoids are generally peaceful as long as their hives are not disturbed, but may attack hapless travelers who wander too close or try to interact with them. They can be found above ground in desert regions, or underground in Insectoid Hives, who serve a Queen. They may organize into a deliberate Infestation against human colonies when the Queen feels their territory is being aggressively encroached upon, often due to deep drill mining or other disturbances of their cave systems. During an Infestation, they will dig upward into the center of a colony, often inside the outer defenses, targeting the colony's electrical power sources, mining equipment, and any humans who are nearby.

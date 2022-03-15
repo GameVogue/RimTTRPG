@@ -1,5 +1,6 @@
 Medical Supplies
 ---
+#items
 
 Medicine is used to improve the results of medical skill checks. Most surgeries cannot be performed without medicine.
 

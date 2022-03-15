@@ -1,5 +1,7 @@
 Tech Levels
 ---
+#lore
+
 Technology divides roughly into six levels, all of which are in use in various societies throughout human space.
 
 **Neolithic**

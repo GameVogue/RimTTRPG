@@ -1,5 +1,6 @@
 Drugs
 ---
+#items
 
 Drugs can be useful to gain temporary benefits of various sorts, but can lead to addiction, negative side effects, and even overdose resulting in permanent ailments or death. Every time a character consumes a drug, they must roll 2d6 and beat the addiction threshold.
 
