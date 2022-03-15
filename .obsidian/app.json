@@ -9,5 +9,7 @@
   "spellcheckDictionary": [
     "impactful",
     "smithing"
-  ]
+  ],
+  "legacyEditor": false,
+  "livePreview": true
 }

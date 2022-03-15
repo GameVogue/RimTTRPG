@@ -15,14 +15,6 @@ Each action takes 5 seconds, and each turn takes 10 seconds.
 ##### Chance To Hit
 When a player takes the Attack action, they roll 2d6 plus either their Melee or Shooting modifier. This number must meet or exceed the Chance To Hit threshold (CTH) of the targeted enemy. CTH threshold is calculated using the size of the target, the amount of cover the target has, and the distance to the target compared to the range of the weapon.
 
-| Size | CTH |
-|---|---|
-| Tiny | 8 |
-| Small | 7 |
-| Medium | 6 |
-| Large | 5 |
-| Gigantic | 4 |
-
 | Cover | CTH |
 |---|---|
 | 1/4 | +1 |
