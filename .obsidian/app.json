@@ -10,6 +10,8 @@
     "impactful",
     "smithing"
   ],
+  "showUnsupportedFiles": true,
+  "useMarkdownLinks": false,
   "legacyEditor": false,
   "livePreview": true
 }
