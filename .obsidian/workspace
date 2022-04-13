@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Rules/Combat.md",
+            "file": "Modules/Angel's Rest.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rules/Combat.md",
+                "file": "Modules/Angel's Rest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rules/Combat.md",
+                "file": "Modules/Angel's Rest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -101,15 +101,15 @@
   },
   "active": "1d4ea9665929ab19",
   "lastOpenFiles": [
-    "Rules/Combat.md",
-    "conflict-files-obsidian-git.md",
-    "World/Items/Weapons.md",
-    "World/Factions/Mercenaries.md",
+    "Modules/Angel's Rest.md",
+    "RimTTRPG/Scenarios/Journalist's Ship.md",
     "Rules/Backstories.md",
     "README.md",
-    "World/Items/Armor.md",
-    "Character Creation.pdf",
-    "Rules/Character Creation.md",
-    "Rules/Psycasting.md"
+    "CONTRIBUTING.md",
+    "conflict-files-obsidian-git.md",
+    "Rules/Combat.md",
+    "World/Items/Weapons.md",
+    "World/Factions/Mercenaries.md",
+    "World/Items/Armor.md"
   ]
 }
